@@ -1,0 +1,48 @@
+.scriptDiv {
+    background-color: white;
+    display: inline-block;
+    border-radius: 20px;
+    padding-right: 3vw;
+    padding-left: 3vw;
+    padding-bottom: 3vw;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1449824913935-59a10b8d2000?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     text-align: center;
+}
+
+.paddingDiv {
+    padding-top: 20vw;
+}
+
+#passOut {
+    background-color: gray;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 115%;
+}
+
+button {
+    background-color: #5775c9;
+    border-radius: 20px;
+    font-size: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}button:active {
+    background-color: #5775c9;
+    border-radius: 20px;
+    font-size: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
